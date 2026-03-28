@@ -11,9 +11,41 @@
 
 ## 🚀 Professional Summary
 - 🎓 B.Tech Cyber Security (3rd Year)
-- 🔐 Passionate about Cyber Security & Ethical Hacking
+- 🔐 Passionate about Cyber Security & Ethical Hacking & Web Development
 - 💻 Building Real-world Projects (Crypto Dashboard, Voting System)
 - ⚡ Strong in Java, JavaScript & Problem Solving
+
+---
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/Networking-Security-blue?style=for-the-badge&logo=cisco" />
+<img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux" />
+
+</p>
+
+---
+
+---
+
+# 🛠 Tech & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Nginx-WebServer-green?style=for-the-badge&logo=nginx" />
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" />
+
+</p>
 
 ---
 
